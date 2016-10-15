@@ -1,0 +1,12 @@
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\bin\Debug\MCO1 Opersys.exe.config
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 Opersys.exe
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 Opersys.pdb
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\bin\Debug\MCO1 Opersys.exe
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\bin\Debug\MCO1 Opersys.pdb
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 ADVANDB.csprojResolveAssemblyReference.cache
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1_Opersys.Form1.resources
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1_Opersys.Properties.Resources.resources
+D:\Users\avggo.MSI\Documents\Visual Studio 2015\Projects\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 ADVANDB.csproj.GenerateResource.Cache
+D:\Users\avggo.MSI\Documents\ADVANDB-MCO1\MCO1 Opersys\MCO1 Opersys\bin\Debug\MCO1 Opersys.exe.config
+D:\Users\avggo.MSI\Documents\ADVANDB-MCO1\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 Opersys.exe
+D:\Users\avggo.MSI\Documents\ADVANDB-MCO1\MCO1 Opersys\MCO1 Opersys\obj\Debug\MCO1 Opersys.pdb
